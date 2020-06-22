@@ -1,0 +1,15 @@
+{
+  "name": "thisthat_bot",
+  "version": "1.0.0",
+  "description": "A service for Telegram that takes 2 strings and returns one at random.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Bronow aaron@bronow.net",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
